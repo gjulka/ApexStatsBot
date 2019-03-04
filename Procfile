@@ -1,1 +1,1 @@
-worker: python apexBot.py
+worker: python3 apexBot.py
