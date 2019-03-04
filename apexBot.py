@@ -1,6 +1,5 @@
 import discord
 import requests
-import os
 
 #token = 'XXXXXXXXX-XXXXXXXX'
 #key = {'TRN-Api-Key': "XXXXXXXXX-XXXXXXXXXX"}
