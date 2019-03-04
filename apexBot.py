@@ -21,7 +21,7 @@ async def on_message(message):
                     Total Matches Played (Unlock games played tracker for all legends)\n
             In order to get accurate stats, go to each legend in game and unlock the trackers for the stats listed above.\n
             Or follow Apex Tracker website instructions.'''
-            await client.send_message(message.channel, msg)
+            await message.channel.send(msg)
             return
 
         if message.content.startswith('!stats'):
@@ -80,7 +80,7 @@ async def on_message(message):
                 msg = 'Major error, talk to ya boii to see what you broke.'
             
 
-            await client.send_message(message.channel, msg)
+            await message.channel.send(msg)
             return
 
             
