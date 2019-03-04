@@ -1,1 +1,1 @@
-web: python3 apexBot.py $PORT
+bot: python3 apexBot.py $PORT
