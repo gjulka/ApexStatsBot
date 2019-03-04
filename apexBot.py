@@ -1,8 +1,8 @@
 import discord
 import requests
 
-token = 'XXXXXXXXX-XXXXXXXX'
-key = {'TRN-Api-Key': "XXXXXXXXX-XXXXXXXXXX"}
+#token = 'XXXXXXXXX-XXXXXXXX'
+#key = {'TRN-Api-Key': "XXXXXXXXX-XXXXXXXXXX"}
 
 client = discord.Client()
 
