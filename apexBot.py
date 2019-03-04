@@ -88,4 +88,4 @@ async def on_message(message):
 async def on_ready():
     print('ready')
 
-client.run(os.environ.get['token'])
+client.run(os.environ.get('token'))
