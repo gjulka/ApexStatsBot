@@ -1,2 +1,2 @@
 worker: python3 apexBot.py
-web: requests apexBot.py
+web: python3 apexBot.py
